@@ -1,0 +1,4 @@
+C:/Users/abasa/CLionProjects/techniki 1/cmake-build-debug/CMakeFiles/techniki_1.dir
+C:/Users/abasa/CLionProjects/techniki 1/cmake-build-debug/CMakeFiles/techniki_2.dir
+C:/Users/abasa/CLionProjects/techniki 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abasa/CLionProjects/techniki 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

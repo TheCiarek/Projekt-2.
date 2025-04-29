@@ -1,0 +1,11 @@
+# ninja log v6
+3	995	7676520244590848	CMakeFiles/techniki_1.dir/main.cpp.obj	90b48f141040323c
+7	596	7676518737411326	CMakeFiles/main.cpp.dir/funkcje.cpp.obj	368686c65d4d5139
+17	163	7676520392646584	techniki_1.exe	a47690f279489f5c
+1	267	7676520838801962	build.ninja	14a1fc580b08253b
+16	711	7676520244710518	CMakeFiles/techniki_1.dir/funkcje.cpp.obj	aab1746672677ed5
+9	599	7676518837121304	CMakeFiles/test.cpp.dir/funkcje.cpp.obj	6cc3fdc08bfc8b03
+21	939	7676520244766620	CMakeFiles/techniki_1.dir/test.cpp.obj	10afaab12048f59f
+22	627	7676520872500561	CMakeFiles/techniki_2.dir/funkcje.cpp.obj	41ecc895e7eb68a1
+10	800	7676520872390407	CMakeFiles/techniki_2.dir/test.cpp.obj	34fc61d9c0dea46b
+800	950	7676520880288619	techniki_2.exe	2ac6a5e0a2ef8322
